@@ -24,3 +24,6 @@ true == 2   true
 true === Boolean(2)   false
 
 15. == is non strict equal. ===is strict equal, it cares about the type.
+
+17. it will return 2,4,6 because it is a function that calls a function
+19. 
